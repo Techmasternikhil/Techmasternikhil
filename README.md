@@ -156,7 +156,7 @@ Wi-Fi penetration testing tool for network security analysis — vulnerability i
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=techmasternikhil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="github stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=techmasternikhil&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="github stats"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techmasternikhil&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="top languages"/>
 </div>
 
