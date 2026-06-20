@@ -7,7 +7,7 @@
 Final-year Computer Science Engineering student building autonomous security tooling at the intersection of AI, network defense, and IoT.
 
 [![Email](https://img.shields.io/badge/Email-nikhilkrishna.a2004%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nikhilkrishna.a2004@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-@techmasternikhl-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/techmasternikhl)
+[![X.com](https://img.shields.io/badge/Twitter-@techmasternikhl-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/techmasternikhl)
 [![YouTube](https://img.shields.io/badge/YouTube-techmasternikhil-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/c/techmasternikhil)
 [![Instagram](https://img.shields.io/badge/Instagram-techmasternikhil-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/techmasternikhil)
 
@@ -73,10 +73,6 @@ Custom firmware for a handheld WiFi security testing device with a 16×2 LCD int
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=techmasternikhil&theme=tokyonight&hide_border=true" alt="streak stats" />
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=techmasternikhil&theme=tokyonight&no-frame=true&row=1" alt="trophies" />
 </p>
 
 ---
