@@ -1,84 +1,179 @@
 <div align="center">
 
-# Nikhil Krishna A
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=Nikhil%20Krishna%20A&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Cyber%20Security%20Practitioner%20%7C%20Junior%20Software%20Developer%20%7C%20Python%20Developer&descAlignY=58&descSize=16&animation=fadeIn" />
 
-### Cybersecurity Engineer · AI Agent Developer · Embedded Systems
+<br/>
 
-Final-year Computer Science Engineering student building autonomous security tooling at the intersection of AI, network defense, and IoT.
+<a href="mailto:nikhilkrishna.a2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/nikhilkrishna007"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/techmasternikhl"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://www.youtube.com/c/techmasternikhil"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 
-[![Email](https://img.shields.io/badge/Email-nikhilkrishna.a2004%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nikhilkrishna.a2004@gmail.com)
-[![X.com](https://img.shields.io/badge/Twitter-@techmasternikhl-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/techmasternikhl)
-[![YouTube](https://img.shields.io/badge/YouTube-techmasternikhil-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/c/techmasternikhil)
-[![Instagram](https://img.shields.io/badge/Instagram-techmasternikhil-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/techmasternikhil)
+<img src="https://komarev.com/ghpvc/?username=techmasternikhil&style=for-the-badge&color=0e75b6" alt="profile views"/>
 
 </div>
 
----
+<br/>
 
-## About Me
+## 👋 About Me
 
-I'm a final-year CSE student (APJ Abdul Kalam Technological University) focused on building practical, deployable security systems rather than purely theoretical work. My current focus areas:
+Entry-level Software Developer and Cybersecurity Enthusiast with a strong background in building hybrid IoT and AI-driven solutions — multi-agent systems, embedded systems, and host/network intrusion detection. Based in Thiruvananthapuram, Kerala, India.
 
-- 🛡️ **Network Defense** — Intrusion detection, SOAR platforms, and autonomous incident response
-- 🤖 **AI Agents for Security** — Reasoning agents that triage, investigate, and act on threats
-- 🔌 **Embedded & IoT Security** — ESP32/STM32-based sensing and pentesting tools
-- 🎯 Currently progressing through **Red Team Leaders certifications** and competing in cybersecurity hackathons
+```yaml
+education:   B.Tech Computer Science, Indira Gandhi Institute of Technology (2022–2026)
+focus:       SOC Automation · Network Security · Penetration Testing · AI Agents
+certified:   Red Team Operations Management (CRTOM) · Certified Network Security Practitioner (CNSP)
+research:    IEEE published — ICDDS'25, IIIT Dharwad
+seeking:     Opportunities in cybersecurity & software development
+```
 
----
+<br/>
 
-## Featured Projects
+## 🛠️ Technical Skills
 
-### 🔴 Astra-SOAR — Real-Time Intrusion Detection & Response
-A live Security Operations Center dashboard with a rule-based detection engine for volumetric floods, stealth recon, and UDP floods, enriched with Shannon entropy analysis and AI-generated analyst briefs.
-`Python` `Scapy` `Streamlit` `Gemini API` `fpdf2`
+<table>
+<tr>
+<td valign="top" width="50%">
 
-### 🟢 AI SOC Analyst Agent
-A ReAct-style autonomous security agent that investigates alerts, checks IP reputation, and escalates or blocks threats in real time, with persistent memory for brute-force pattern detection.
-`Google ADK` `Gemini` `Groq (Llama 3.3-70B)` `VirusTotal API` `Cloudflare WAF` `SQLite`
+**Cybersecurity & Operations**
+<p>
+<img src="https://img.shields.io/badge/SOC%20Automation-FF6600?style=flat-square"/>
+<img src="https://img.shields.io/badge/ICS%2FSCADA%20Security-FF6600?style=flat-square"/>
+<img src="https://img.shields.io/badge/Network%20Security-FF6600?style=flat-square"/>
+<img src="https://img.shields.io/badge/Penetration%20Testing-FF6600?style=flat-square"/>
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nmap-000000?style=flat-square&logo=nmap&logoColor=white"/>
+</p>
 
-### 🔵 Zero-Hack IDS
-A hybrid IoT intrusion detection system combining network-layer and sensor-layer detection — published research, under revision for IEEE ICIET 2026.
-`Suricata` `ESP32` `MQTT` `Node-RED` `Telegram Alerts`
+**AI & Intelligent Agents**
+<p>
+<img src="https://img.shields.io/badge/Multi--Agent%20Systems-8E75B2?style=flat-square"/>
+<img src="https://img.shields.io/badge/LLMs-8E75B2?style=flat-square"/>
+<img src="https://img.shields.io/badge/NLP-8E75B2?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG%20Pipelines-8E75B2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=flat-square&logo=googlegemini&logoColor=white"/>
+</p>
 
-### 🟣 ESP32 WiFi Pentesting Tool
-Custom firmware for a handheld WiFi security testing device with a 16×2 LCD interface and physical button controls.
+</td>
+<td valign="top" width="50%">
+
+**Programming & Web**
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+</p>
+
+**Embedded, IoT & Tools**
+<p>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/Embedded%20C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git%2FGitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</p>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🚀 Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ AI SOC Analyst
+*Google Capstone Project*
+Autonomous SOC agent using a multi-agent architecture — specialized agents for threat detection, log analysis, and incident response, with automated triage to cut false positives.
+
+`Gemini API` `Python` `LLMs` `Multi-Agent` `Vector DB`
+
+</td>
+<td width="50%" valign="top">
+
+### ⚖️ Legal Invoice Auditor
+*Google Capstone Project*
+Multi-agent system automating legal invoice auditing — collaborative agents cross-verify billing entries, detect anomalies and duplicate charges, and speed up approval turnaround.
+
+`Gemini API` `Python` `NLP` `OCR` `LLMs`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💡 Night-Time Headlight Automation
+*Research Project — IEEE Published, ICDDS'25 (IIIT Dharwad)*
+Adaptive headlight control system with sensor-based dimming and beam adjustment to prevent glare for oncoming drivers.
+
+`Embedded C` `Microcontrollers` `IoT Sensors` `Signal Processing`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔍 IoT-Based Intrusion Detection System (Zero-Hack IDS)
+*Main Project*
+Real-time network intrusion detection combining Python and Suricata, monitoring traffic and generating live alerts via a Node-RED dashboard.
+
+`Python` `Suricata` `Node-RED` `Raspberry Pi` `ESP32`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📡 Wi-Fi Penetration Testing Tool
+*Embedded Systems / Security Project*
+Wi-Fi penetration testing tool for network security analysis — vulnerability identification and wireless network assessment with hands-on ethical hacking practice.
+
 `ESP32` `C++` `Embedded Firmware`
 
----
+</td>
+<td width="50%" valign="top">
 
-## Tech Stack
+</td>
+</tr>
+</table>
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</p>
+<br/>
 
-**Security & AI:** Suricata · Scapy · VirusTotal API · Cloudflare WAF · Google ADK · Gemini · Groq LPU
-**Embedded:** ESP32 · STM32 · ARM Cortex-M · MQTT
-**Web/App:** Streamlit · SQLite
+## 📜 Certifications
 
----
+- **Red Team Operations Management (CRTOM)** — Red Team Leaders · Jan 2026
+- **Certified Network Security Practitioner (CNSP)** — The SecOps Group · Dec 2025 (Merit)
+- **Junior Software Developer (NSQF Level 4)** — NASSCOM & Skill India · Sep 2022
+- **The Fundamentals of Digital Marketing** — Google Digital Unlocked (IAB Europe) · Jul 2022
 
-## GitHub Stats
+<br/>
 
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=techmasternikhil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="techmasternikhil stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techmasternikhil&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=techmasternikhil&theme=tokyonight&hide_border=true" alt="streak stats" />
-</p>
-
----
+## 📊 GitHub Analytics
 
 <div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=techmasternikhil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="github stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techmasternikhil&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="top languages"/>
+</div>
 
-📫 **Reach me at:** nikhilkrishna.a2004@gmail.com
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=techmasternikhil&theme=tokyonight&hide_border=true" alt="streak stats"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=techmasternikhil&theme=tokyo-night&hide_border=true" width="100%" alt="activity graph"/>
+</div>
+
+<br/>
+
+## 📫 Let's Connect
+
+Open to opportunities in cybersecurity and software development. Reach out at **nikhilkrishna.a2004@gmail.com**.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=100&section=footer" />
 
 </div>
